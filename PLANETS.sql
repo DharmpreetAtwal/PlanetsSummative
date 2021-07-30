@@ -1,6 +1,6 @@
 use planets;
 create table planet_info (name varchar(50), 
-						angle smallint,
+			angle smallint,
                         population int, 
                         max_pop int, 
                         orbit_radius_AU float);
